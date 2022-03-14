@@ -1,7 +1,11 @@
 # AI Project HighD
+This Project to handle highD data files using Python.
+
+## Dataset
 To download dataset go to this link ```https://drive.google.com/drive/folders/1PDqVqxNq3ekttpFypI86jO9oenSw-bwf```
 
 Please move the data file to the project file so that the program can read it  ```AI-Project/data```
+
 ## Run Locally
 
 Clone the project
@@ -37,3 +41,7 @@ for i in range(len(file_name)):
 
 print(data[2].head())
 ```
+
+## Important Site
+- HighD Tools [here](https://github.com/RobertKrajewski/highD-dataset)
+- File Format [here](https://www.highd-dataset.com/format)
