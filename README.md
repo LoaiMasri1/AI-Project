@@ -41,6 +41,9 @@ for i in range(len(file_name)):
 
 print(data[2].head())
 ```
+## Your Challenge
+
+To Calculate Volatility Measures [here](https://drive.google.com/file/d/167nINsAEw9ecqup22pC7cWdkqVkFvoRV/view?usp=sharinghttps://drive.google.com/file/d/167nINsAEw9ecqup22pC7cWdkqVkFvoRV/view?usp=sharing)
 
 ## Important Site
 - HighD Tools [here](https://github.com/RobertKrajewski/highD-dataset)
