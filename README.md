@@ -48,7 +48,7 @@ print(data[2].head())
 
 - Using Python, read all the files that are labeled as "xx_tracks.csv" as one dataframe.
 
-- reate 13 new columns in the dataframe for the Volatility measures (see file uploaded in the Project tab). For each trackID (i.e., driver), you will need to use the equation provided in the above-mentioned uploaded file to find the 13 volatility measures.
+- reate 13 new columns in the dataframe for the Volatility measures. For each trackID (i.e., driver), you will need to use the equation provided in the above-mentioned uploaded file to find the 13 volatility measures.
 
 
 ## Important Site
