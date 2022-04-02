@@ -41,9 +41,15 @@ for i in range(len(file_name)):
 
 print(data[2].head())
 ```
-## Your Challenge
 
-To Calculate Volatility Measures [here](https://drive.google.com/file/d/167nINsAEw9ecqup22pC7cWdkqVkFvoRV/view?usp=sharinghttps://drive.google.com/file/d/167nINsAEw9ecqup22pC7cWdkqVkFvoRV/view?usp=sharing)
+## Guideline for submitting the task:
+
+- Calculate Volatility Measures [here](https://drive.google.com/file/d/167nINsAEw9ecqup22pC7cWdkqVkFvoRV/view?usp=sharinghttps://drive.google.com/file/d/167nINsAEw9ecqup22pC7cWdkqVkFvoRV/view?usp=sharing)
+
+- Using Python, read all the files that are labeled as "xx_tracks.csv" as one dataframe.
+
+- reate 13 new columns in the dataframe for the Volatility measures (see file uploaded in the Project tab). For each trackID (i.e., driver), you will need to use the equation provided in the above-mentioned uploaded file to find the 13 volatility measures.
+
 
 ## Important Site
 - HighD Tools [here](https://github.com/RobertKrajewski/highD-dataset)
